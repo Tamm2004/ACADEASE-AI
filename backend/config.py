@@ -5,7 +5,7 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
     grok_api_key: str = ""
-    grok_api_base: str = "https://api.x.ai/v1"
+    grok_api_base: str = "https://api.groq.com/openai/v1"
     grok_model: str = "grok-2-latest"
 
     env: str = "development"
