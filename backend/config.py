@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     grok_model: str = "grok-2-latest"
 
     env: str = "development"
-    cors_origins: str = "http://localhost:5173,http://localhost:3000"
+    cors_origins: str = "https://acadease-ai-six.vercel.app,http://localhost:5173,http://localhost:3000"
     university_name: str = "Guru Nanak Dev University"
     app_name: str = "AcadEase AI"
 
