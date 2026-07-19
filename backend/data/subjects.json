@@ -1,0 +1,835 @@
+[
+
+  {
+    "subject_code": "CSL4050",
+    "subject_name": "Design and Analysis of Algorithms",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4052",
+    "subject_name": "System Software",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4053",
+    "subject_name": "System Simulation",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL5039",
+    "subject_name": "Soft Computing",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4035",
+    "subject_name": "Secure Software Development",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4036",
+    "subject_name": "Machine Learning",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4037",
+    "subject_name": "Computer Graphics",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 1,
+    "type": "Elective",
+    "is_elective": true
+  },
+  
+{
+    "subject_code": "CSL4099",
+    "subject_name": "Theory of Computation",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4065",
+    "subject_name": "Distributed Systems",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4033",
+    "subject_name": "Microprocessor & its Applications",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4094",
+    "subject_name": "Open Source Software",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Skill Enhancement",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL4096",
+    "subject_name": "Information Systems and Security",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4097",
+    "subject_name": "Deep Learning",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4098",
+    "subject_name": "Digital Image Processing",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "EDL0010",
+    "subject_name": "Universal Human Values-II: Understanding Harmony",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 2,
+    "type": "Value Added",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+ {
+    "subject_code": "CSL5038",
+    "subject_name": "Advanced Software Engineering",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL5040",
+    "subject_name": "Mobile Computing",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL5042",
+    "subject_name": "Advanced Computer Architecture",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL5074",
+    "subject_name": "Cloud Native Application Development",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL5075",
+    "subject_name": "Digital Forensics",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL5076",
+    "subject_name": "Natural Language Processing",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL5077",
+    "subject_name": "Computer Vision",
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "semester": 3,
+    "type": "Elective",
+    "is_elective": true
+  },
+{
+    "subject_code": "CSL1010",
+    "subject_name": "Programming Language-I",
+    "course_id":"MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL1014",
+    "subject_name": "Fundamentals of IT",
+    "course_id":"MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "ECL1091",
+    "subject_name": "Electronics Fundamentals",
+    "course_id":"MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "MTL1011",
+    "subject_name": "Mathematics-I",
+    "course_id":"MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "SOL1006",
+    "subject_name": "Drug Abuse: Problem, Management and Prevention",
+    "course_id":"MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "semester": 1,
+    "type": "Value Added",
+    "is_elective": false,
+    "department": "Computer Science"
+  },
+  {
+    "subject_code": "CSL1021",
+    "subject_name": "Numerical Methods",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL1022",
+    "subject_name": "Database Management System",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL1023",
+    "subject_name": "Data Structures & File Processing",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL1024",
+    "subject_name": "Object Oriented Programming in C++",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "PSL0059",
+    "subject_name": "Human Rights & Constitutional Duties",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Value Added",
+    "is_elective": false
+  },
+   {
+    "subject_code": "CSL2010",
+    "subject_name": "Operating System",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2012",
+    "subject_name": "Information Systems",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2013",
+    "subject_name": "Object Oriented Programming in Java",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2015",
+    "subject_name": "Computer Organization and Architecture",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "MTL2011",
+    "subject_name": "Computer Based Optimization Techniques",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 3,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "ESL2022",
+    "subject_name": "Environmental Studies",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 3,
+    "type": "Value Added",
+    "is_elective": false
+  },
+   {
+    "subject_code": "CSL2020",
+    "subject_name": "Data Communications",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 4,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2023",
+    "subject_name": "RDBMS Using ORACLE (SQL, PL/SQL)",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 4,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2026",
+    "subject_name": "Software Engineering",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 4,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2028",
+    "subject_name": "Technology & Ethics",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 4,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL2032",
+    "subject_name": "Web Designing & Development",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 4,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL3010",
+    "subject_name": "Computer Graphics",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 5,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL3012",
+    "subject_name": "Compiler Design",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 5,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL3021",
+    "subject_name": "Advanced Java Programming",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 5,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL3016",
+    "subject_name": "Introduction to Python Programming",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 5,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4050",
+    "subject_name": "Design and Analysis of Algorithms",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4052",
+    "subject_name": "System Software",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4053",
+    "subject_name": "System Simulation",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4055",
+    "subject_name": "Soft Computing",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4035",
+    "subject_name": "Secure Software Development",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4036",
+    "subject_name": "Machine Learning",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4038",
+    "subject_name": "Multimedia Tools and Applications",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 7,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4099",
+    "subject_name": "Theory of Computation",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4065",
+    "subject_name": "Distributed Systems",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4033",
+    "subject_name": "Microprocessor & its Applications",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4094",
+    "subject_name": "Open Source Software",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Skill Enhancement",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CSL4096",
+    "subject_name": "Information Systems and Security",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4097",
+    "subject_name": "Deep Learning",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CSL4098",
+    "subject_name": "Digital Image Processing",
+    "course_id": "MCA_FYC",
+    "course_name": "Master of Computer Applications (Five Year Integrated Programme)",
+    "department": "Computer Science",
+    "semester": 8,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CTL4011",
+    "subject_name": "PC Computing-I (MS Office)",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4012",
+    "subject_name": "PC Computing-II (Professional DTP)",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4013",
+    "subject_name": "Fundamentals of Computer & Operating Systems",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4014",
+    "subject_name": "Database Management System",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4061",
+    "subject_name": "Network Concepts and Management",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4062",
+    "subject_name": "Programming in Python",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4063",
+    "subject_name": "Introduction to Web Technologies & Uses of Internet",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4064",
+    "subject_name": "Programming in Visual Basic with C# and ASP.NET",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CTL4065",
+    "subject_name": "E-Commerce / Business",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CTL4066",
+    "subject_name": "Multimedia System",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CTL4067",
+    "subject_name": "Installation and Maintenance of Computer System",
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Elective",
+    "is_elective": true
+  },
+  {
+    "subject_code": "CTL4031",
+    "subject_name": "Fundamentals of Artificial Intelligence",
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4032",
+    "subject_name": "Programming in Python",
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4033",
+    "subject_name": "Data Analytics",
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4034",
+    "subject_name": "Machine Learning",
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4081",
+    "subject_name": "Deep Learning",
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CTL4082",
+    "subject_name": "Natural Language Processing (NLP)",
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CCA1016",
+    "subject_name": "Fundamentals of Computer & Information Technology",
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CCA1017",
+    "subject_name": "PC Computing-I",
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CCA1018",
+    "subject_name": "Operating System",
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 1,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CCA1066",
+    "subject_name": "Database Management System",
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CCA1067",
+    "subject_name": "PC Computing-II",
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  },
+  {
+    "subject_code": "CCA1068",
+    "subject_name": "Fundamentals of Computer Networks",
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "department": "Computer Science",
+    "semester": 2,
+    "type": "Theory",
+    "is_elective": false
+  }
+]

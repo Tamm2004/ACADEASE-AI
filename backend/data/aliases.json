@@ -1,0 +1,162 @@
+[
+  {
+    "subject_code": "CSL4050",
+    "subject_name": "Design and Analysis of Algorithms",
+    "aliases": ["daa", "design and analysis of algorithms", "algorithms", "csl4050"]
+  },
+  {
+    "subject_code": "CSL4052",
+    "subject_name": "System Software",
+    "aliases": ["system software", "ss", "csl4052"]
+  },
+  {
+    "subject_code": "CSL4053",
+    "subject_name": "System Simulation",
+    "aliases": ["system simulation", "simulation", "csl4053"]
+  },
+  {
+    "subject_code": "CSL5039",
+    "subject_name": "Soft Computing",
+    "aliases": ["soft computing", "sc", "csl5039"]
+  },
+  {
+    "subject_code": "CSL4055",
+    "subject_name": "Soft Computing",
+    "aliases": ["soft computing", "sc", "csl4055"]
+  },
+  {
+    "subject_code": "CSL4099",
+    "subject_name": "Theory of Computation",
+    "aliases": ["toc", "theory of computation", "automata", "csl4099"]
+  },
+  {
+    "subject_code": "CSL4065",
+    "subject_name": "Distributed Systems",
+    "aliases": ["distributed systems", "ds", "distributed computing", "csl4065"]
+  },
+  {
+    "subject_code": "CSL4033",
+    "subject_name": "Microprocessor & its Applications",
+    "aliases": ["microprocessor", "mp", "microprocessor applications", "csl4033"]
+  },
+  {
+    "subject_code": "CSL4094",
+    "subject_name": "Open Source Software",
+    "aliases": ["oss", "open source software", "csl4094"]
+  },
+  {
+    "subject_code": "CSL4096",
+    "subject_name": "Information Systems and Security",
+    "aliases": ["iss", "information systems and security", "information security", "csl4096"]
+  },
+  {
+    "subject_code": "CSL4097",
+    "subject_name": "Deep Learning",
+    "aliases": ["deep learning", "dl", "csl4097", "ctl4081"]
+  },
+  {
+    "subject_code": "CSL4098",
+    "subject_name": "Digital Image Processing",
+    "aliases": ["dip", "digital image processing", "image processing", "csl4098"]
+  },
+  {
+    "subject_code": "CSL5038",
+    "subject_name": "Advanced Software Engineering",
+    "aliases": ["advanced software engineering", "software engineering", "ase", "csl5038"]
+  },
+  {
+    "subject_code": "CSL5040",
+    "subject_name": "Mobile Computing",
+    "aliases": ["mobile computing", "mc", "csl5040"]
+  },
+  {
+    "subject_code": "CSL5042",
+    "subject_name": "Advanced Computer Architecture",
+    "aliases": ["aca", "advanced computer architecture", "computer architecture", "csl5042"]
+  },
+  {
+    "subject_code": "CSL5074",
+    "subject_name": "Cloud Native Application Development",
+    "aliases": ["cloud", "cloud native", "cloud native application development", "csl5074"]
+  },
+  {
+    "subject_code": "CSL5075",
+    "subject_name": "Digital Forensics",
+    "aliases": ["digital forensics", "forensics", "csl5075"]
+  },
+  {
+    "subject_code": "CSL5076",
+    "subject_name": "Natural Language Processing",
+    "aliases": ["nlp", "natural language processing", "csl5076", "ctl4082"]
+  },
+  {
+    "subject_code": "CSL5077",
+    "subject_name": "Computer Vision",
+    "aliases": ["computer vision", "cv", "csl5077"]
+  },
+  {
+    "subject_code": "CSL1022",
+    "subject_name": "Database Management System",
+    "aliases": ["dbms", "database", "database management", "database management system", "csl1022", "ctl4014", "cca1066"]
+  },
+  {
+    "subject_code": "CSL1023",
+    "subject_name": "Data Structures & File Processing",
+    "aliases": ["ds", "data structures", "data structures and file processing", "csl1023"]
+  },
+  {
+    "subject_code": "CSL1024",
+    "subject_name": "Object Oriented Programming in C++",
+    "aliases": ["oop", "oop in c++", "c++", "object oriented programming", "csl1024"]
+  },
+  {
+    "subject_code": "CSL2010",
+    "subject_name": "Operating System",
+    "aliases": ["os", "operating system", "operating systems", "csl2010", "cca1018"]
+  },
+  {
+    "subject_code": "CSL2013",
+    "subject_name": "Object Oriented Programming in Java",
+    "aliases": ["java", "oop java", "advanced java", "csl2013", "csl3021"]
+  },
+  {
+    "subject_code": "CSL2026",
+    "subject_name": "Software Engineering",
+    "aliases": ["software engineering", "se", "csl2026"]
+  },
+  {
+    "subject_code": "CSL2032",
+    "subject_name": "Web Designing & Development",
+    "aliases": ["web development", "web designing", "wdd", "html", "css", "javascript", "csl2032"]
+  },
+  {
+    "subject_code": "CSL3012",
+    "subject_name": "Compiler Design",
+    "aliases": ["compiler", "compiler design", "cd", "csl3012"]
+  },
+  {
+    "subject_code": "CSL3016",
+    "subject_name": "Introduction to Python Programming",
+    "aliases": ["python", "python programming", "intro python", "csl3016", "ctl4032", "ctl4062"]
+  },
+  {
+    "subject_code": "CSL4036",
+    "subject_name": "Machine Learning",
+    "aliases": ["machine learning", "ml", "csl4036", "ctl4034"]
+  },
+  {
+    "subject_code": "CTL4031",
+    "subject_name": "Fundamentals of Artificial Intelligence",
+    "aliases": ["ai", "artificial intelligence", "fundamentals of ai", "ctl4031"]
+  },
+  {
+    "subject_code": "CTL4033",
+    "subject_name": "Data Analytics",
+    "aliases": ["data analytics", "analytics", "da", "ctl4033"]
+  },
+  {
+    "subject_code": "CCA1068",
+    "subject_name": "Fundamentals of Computer Networks",
+    "aliases": ["computer networks", "cn", "networking", "fundamentals of computer networks", "cca1068"]
+  }
+]

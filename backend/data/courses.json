@@ -1,0 +1,32 @@
+[
+  {
+    "course_id": "MCA_TYP",
+    "course_name": "Master of Computer Applications (2 Years)",
+    "duration": "2 Years",
+    "total_semesters": 4
+  },
+  {
+    "course_id": "IMCA",
+    "course_name": "Master of Computer Applications (Integrated - 5 Years)",
+    "duration": "5 Years",
+    "total_semesters": 10
+  },
+  {
+    "course_id": "PGDCA",
+    "course_name": "Post Graduate Diploma in Computer Applications",
+    "duration": "1 Year",
+    "total_semesters": 2
+  },
+  {
+    "course_id": "PGDAI",
+    "course_name": "Post Graduate Diploma in Artificial Intelligence",
+    "duration": "1 Year",
+    "total_semesters": 2
+  },
+  {
+    "course_id": "DCA",
+    "course_name": "Diploma in Computer Applications",
+    "duration": "1 Year",
+    "total_semesters": 2
+  }
+]

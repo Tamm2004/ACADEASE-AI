@@ -1,0 +1,1453 @@
+[
+  {
+    "topic": "Database Management System",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Database Management System",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Neso Academy",
+          "playlist": "DBMS",
+          "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ",
+          "language": "English"
+        },
+        {
+          "channel": "Knowledge Gate",
+          "playlist": "Complete DBMS",
+          "url": "https://www.youtube.com/playlist?list=PL_o7hnHmwsGK_yffDYl5fY4kSRpUTcROi",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Database System Concepts",
+          "author": "Abraham Silberschatz, Henry Korth"
+        },
+        {
+          "title": "Fundamentals of Database Systems",
+          "author": "Elmasri & Navathe"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks DBMS",
+          "url": "https://www.geeksforgeeks.org/dbms/"
+        },
+        {
+          "title": "TutorialsPoint DBMS",
+          "url": "https://www.tutorialspoint.com/dbms/index.htm"
+        },
+        {
+          "title": "W3Schools SQL",
+          "url": "https://www.w3schools.com/sql/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "LeetCode SQL",
+          "url": "https://leetcode.com/problemset/database/"
+        },
+        {
+          "platform": "HackerRank SQL",
+          "url": "https://www.hackerrank.com/domains/sql"
+        },
+        {
+          "platform": "SQLBolt",
+          "url": "https://sqlbolt.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Operating System",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Operating System",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Neso Academy",
+          "playlist": "Operating System",
+          "url": "https://www.youtube.com/playlist?list=PLE-RdVsYEV0s97SmLffYDPLccThs7oDgN",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Operating System Concepts",
+          "author": "Abraham Silberschatz, Peter Galvin"
+        },
+        {
+          "title": "Modern Operating Systems",
+          "author": "Andrew S. Tanenbaum"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Operating System",
+          "url": "https://www.geeksforgeeks.org/operating-systems/"
+        },
+        {
+          "title": "TutorialsPoint Operating System",
+          "url": "https://www.tutorialspoint.com/operating_system/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "InterviewBit OS",
+          "url": "https://www.interviewbit.com/operating-system-interview-questions/"
+        },
+        {
+          "platform": "GeeksforGeeks OS Quiz",
+          "url": "https://www.geeksforgeeks.org/operating-systems-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Data Structures & File Processing",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Apna College",
+          "playlist": "Data Structures",
+          "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO5Aja",
+          "language": "Hindi"
+        },
+        {
+          "channel": "CodeHelp by Babbar",
+          "playlist": "DSA",
+          "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Take U Forward",
+          "playlist": "DSA",
+          "url": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Data Structures Using C",
+          "author": "Reema Thareja"
+        },
+        {
+          "title": "Data Structures and Algorithms Made Easy",
+          "author": "Narasimha Karumanchi"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks DSA",
+          "url": "https://www.geeksforgeeks.org/data-structures/"
+        },
+        {
+          "title": "Programiz",
+          "url": "https://www.programiz.com/dsa"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "LeetCode",
+          "url": "https://leetcode.com/"
+        },
+        {
+          "platform": "HackerRank",
+          "url": "https://www.hackerrank.com/"
+        },
+        {
+          "platform": "Coding Ninjas CodeStudio",
+          "url": "https://www.naukri.com/code360"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Design and Analysis of Algorithms",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Abdul Bari",
+          "playlist": "Algorithms",
+          "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+          "language": "English"
+        },
+        {
+          "channel": "Gate Smashers",
+          "playlist": "DAA",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Introduction to Algorithms",
+          "author": "Cormen, Leiserson, Rivest & Stein"
+        },
+        {
+          "title": "Algorithm Design",
+          "author": "Jon Kleinberg & Éva Tardos"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Algorithms",
+          "url": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/"
+        },
+        {
+          "title": "CP Algorithms",
+          "url": "https://cp-algorithms.com/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "LeetCode",
+          "url": "https://leetcode.com/"
+        },
+        {
+          "platform": "Codeforces",
+          "url": "https://codeforces.com/"
+        },
+        {
+          "platform": "AtCoder",
+          "url": "https://atcoder.jp/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Machine Learning",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Krish Naik",
+          "playlist": "Machine Learning",
+          "url": "https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ",
+          "language": "Hindi"
+        },
+        {
+          "channel": "CampusX",
+          "playlist": "Machine Learning (100 Days of ML)",
+          "url": "https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Hands-On Machine Learning",
+          "author": "Aurélien Géron"
+        },
+        {
+          "title": "Pattern Recognition and Machine Learning",
+          "author": "Christopher Bishop"
+        }
+      ],
+      "websites": [
+        {
+          "title": "Scikit-Learn Documentation",
+          "url": "https://scikit-learn.org/stable/"
+        },
+        {
+          "title": "Google Machine Learning Crash Course",
+          "url": "https://developers.google.com/machine-learning/crash-course"
+        },
+        {
+          "title": "Kaggle Learn",
+          "url": "https://www.kaggle.com/learn"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        },
+        {
+          "platform": "Google Colab",
+          "url": "https://colab.research.google.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Deep Learning",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Krish Naik",
+          "playlist": "Deep Learning and NLP",
+          "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi",
+          "language": "English"
+        },
+        {
+          "channel": "freeCodeCamp",
+          "playlist": "Deep Learning Course – Math and Applications",
+          "url": "https://youtu.be/HJd1I3FdSnY",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Deep Learning",
+          "author": "Ian Goodfellow"
+        },
+        {
+          "title": "Dive into Deep Learning",
+          "author": "Aston Zhang"
+        }
+      ],
+      "websites": [
+        {
+          "title": "TensorFlow",
+          "url": "https://www.tensorflow.org/"
+        },
+        {
+          "title": "PyTorch",
+          "url": "https://pytorch.org/"
+        },
+        {
+          "title": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Google Colab",
+          "url": "https://colab.research.google.com/"
+        },
+        {
+          "platform": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Natural Language Processing",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Krish Naik",
+          "playlist": "NLP",
+          "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn",
+          "language": "English"
+        },
+        {
+          "channel": "CampusX",
+          "playlist": "Natural Language Processing",
+          "url": "https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Speech and Language Processing",
+          "author": "Daniel Jurafsky & James H. Martin"
+        },
+        {
+          "title": "Natural Language Processing with Python",
+          "author": "Steven Bird"
+        }
+      ],
+      "websites": [
+        {
+          "title": "Hugging Face",
+          "url": "https://huggingface.co/"
+        },
+        {
+          "title": "NLTK Documentation",
+          "url": "https://www.nltk.org/"
+        },
+        {
+          "title": "spaCy Documentation",
+          "url": "https://spacy.io/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Kaggle NLP",
+          "url": "https://www.kaggle.com/learn/natural-language-processing"
+        },
+        {
+          "platform": "Google Colab",
+          "url": "https://colab.research.google.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Computer Networks",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Computer Networks",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Neso Academy",
+          "playlist": "Computer Networks",
+          "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Computer Networking: A Top-Down Approach",
+          "author": "James F. Kurose & Keith W. Ross"
+        },
+        {
+          "title": "Data Communications and Networking",
+          "author": "Behrouz A. Forouzan"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Computer Networks",
+          "url": "https://www.geeksforgeeks.org/computer-network-tutorials/"
+        },
+        {
+          "title": "TutorialsPoint Computer Networks",
+          "url": "https://www.tutorialspoint.com/computer_network/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "InterviewBit Computer Networks",
+          "url": "https://www.interviewbit.com/computer-network-interview-questions/"
+        },
+        {
+          "platform": "GeeksforGeeks CN Quiz",
+          "url": "https://www.geeksforgeeks.org/computer-network-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Theory of Computation",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Theory of Computation",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Neso Academy",
+          "playlist": "Theory of Computation",
+          "url": "https://www.youtube.com/playlist?list=PLxH1hzYHfR2f48eP9CSkX3TO3cMZJ90Wk",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Introduction to the Theory of Computation",
+          "author": "Michael Sipser"
+        },
+        {
+          "title": "Introduction to Automata Theory, Languages, and Computation",
+          "author": "John E. Hopcroft, Rajeev Motwani & Jeffrey D. Ullman"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Theory of Computation",
+          "url": "https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/"
+        },
+        {
+          "title": "TutorialsPoint Automata Theory",
+          "url": "https://www.tutorialspoint.com/automata_theory/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks TOC Practice",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Compiler Design",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Compiler Design",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc",
+          "language": "Hindi"
+        },
+        {
+          "channel": "KnowledgeGATE by Sanchit Sir",
+          "playlist": "Compiler Design (Complete Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Compilers: Principles, Techniques, and Tools",
+          "author": "Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman"
+        },
+        {
+          "title": "Engineering a Compiler",
+          "author": "Keith Cooper & Linda Torczon"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Compiler Design",
+          "url": "https://www.geeksforgeeks.org/compiler-design-tutorials/"
+        },
+        {
+          "title": "TutorialsPoint Compiler Design",
+          "url": "https://www.tutorialspoint.com/compiler_design/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks Compiler Design Practice",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Software Engineering",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Software Engineering",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Knowledge Gate",
+          "playlist": "Software Engineering",
+          "url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Software Engineering: A Practitioner's Approach",
+          "author": "Roger S. Pressman"
+        },
+        {
+          "title": "Software Engineering",
+          "author": "Ian Sommerville"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Software Engineering",
+          "url": "https://www.geeksforgeeks.org/software-engineering/software-engineering-tutorial/"
+        },
+        {
+          "title": "TutorialsPoint Software Engineering",
+          "url": "https://www.tutorialspoint.com/software_engineering/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks Software Engineering Practice",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Object Oriented Programming",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Jenny's Lectures CS/IT",
+          "playlist": "C++ (OOP concepts)",
+          "url": "https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee",
+          "language": "English"
+        },
+        {
+          "channel": "Apna College",
+          "playlist": "C++ Full Course (with OOP)",
+          "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Object Oriented Programming with C++",
+          "author": "E. Balagurusamy"
+        },
+        {
+          "title": "Head First Object-Oriented Analysis and Design",
+          "author": "Brett McLaughlin, Gary Pollice & David West"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks OOP Concepts",
+          "url": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"
+        },
+        {
+          "title": "TutorialsPoint OOP Concepts",
+          "url": "https://www.tutorialspoint.com/java/java_object_classes.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "HackerRank C++",
+          "url": "https://www.hackerrank.com/domains/cpp"
+        },
+        {
+          "platform": "LeetCode",
+          "url": "https://leetcode.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Java",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Apna College",
+          "playlist": "Java Programming",
+          "url": "https://www.youtube.com/playlist?list=PLlZ9hLh-8HgiYcOTG4t959W6Sxr9Irmvm",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Telusko",
+          "playlist": "Java Tutorial",
+          "url": "https://www.youtube.com/playlist?list=PLsyeobzWxl7p-OlaXZbIr5zotBorzBv8z",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Head First Java",
+          "author": "Kathy Sierra & Bert Bates"
+        },
+        {
+          "title": "Effective Java",
+          "author": "Joshua Bloch"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Java",
+          "url": "https://www.geeksforgeeks.org/java/"
+        },
+        {
+          "title": "javatpoint Java",
+          "url": "https://www.javatpoint.com/java-tutorial"
+        },
+        {
+          "title": "Oracle Java Documentation",
+          "url": "https://docs.oracle.com/en/java/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "HackerRank Java",
+          "url": "https://www.hackerrank.com/domains/java"
+        },
+        {
+          "platform": "LeetCode",
+          "url": "https://leetcode.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Python",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "CodeWithHarry",
+          "playlist": "Python Tutorial For Beginners In Hindi",
+          "url": "https://www.youtube.com/watch?v=UrsmFxEIp5k",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Apna College",
+          "playlist": "Python Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=vLqTf2b6GZw",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Python Crash Course",
+          "author": "Eric Matthes"
+        },
+        {
+          "title": "Automate the Boring Stuff with Python",
+          "author": "Al Sweigart"
+        }
+      ],
+      "websites": [
+        {
+          "title": "Python Official Documentation",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "title": "W3Schools Python",
+          "url": "https://www.w3schools.com/python/"
+        },
+        {
+          "title": "Real Python",
+          "url": "https://realpython.com/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "HackerRank Python",
+          "url": "https://www.hackerrank.com/domains/python"
+        },
+        {
+          "platform": "LeetCode",
+          "url": "https://leetcode.com/"
+        },
+        {
+          "platform": "Codewars",
+          "url": "https://www.codewars.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Cloud Computing",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Cloud Computing (Complete Course)",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHRHVUtR-O52MsrdUSrzuy4",
+          "language": "Hindi"
+        },
+        {
+          "channel": "freeCodeCamp",
+          "playlist": "AWS Certified Cloud Practitioner Course",
+          "url": "https://youtu.be/7HKot-brXFE",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Cloud Computing: Concepts, Technology & Architecture",
+          "author": "Thomas Erl"
+        },
+        {
+          "title": "Architecting the Cloud",
+          "author": "Michael J. Kavis"
+        }
+      ],
+      "websites": [
+        {
+          "title": "AWS Documentation",
+          "url": "https://docs.aws.amazon.com/"
+        },
+        {
+          "title": "Microsoft Azure Documentation",
+          "url": "https://learn.microsoft.com/en-us/azure/"
+        },
+        {
+          "title": "Google Cloud Documentation",
+          "url": "https://cloud.google.com/docs"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "AWS Free Tier",
+          "url": "https://aws.amazon.com/free/"
+        },
+        {
+          "platform": "Google Cloud Skills Boost",
+          "url": "https://www.cloudskillsboost.google/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Computer Graphics",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Education 4u",
+          "playlist": "Computer Graphics (CG)",
+          "url": "https://www.youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY",
+          "language": "English"
+        },
+        {
+          "channel": "5 Minutes Engineering",
+          "playlist": "Computer Graphics",
+          "url": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Computer Graphics: Principles and Practice",
+          "author": "James D. Foley & Andries van Dam"
+        },
+        {
+          "title": "Computer Graphics C Version",
+          "author": "Donald Hearn & M. Pauline Baker"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Computer Graphics",
+          "url": "https://www.geeksforgeeks.org/computer-graphics/"
+        },
+        {
+          "title": "TutorialsPoint Computer Graphics",
+          "url": "https://www.tutorialspoint.com/computer_graphics/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks Computer Graphics Practice",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Computer Vision",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "freeCodeCamp",
+          "playlist": "OpenCV Course - Full Tutorial with Python",
+          "url": "https://www.youtube.com/watch?v=oXlwWbU8l2o",
+          "language": "English"
+        },
+        {
+          "channel": "Krish Naik",
+          "playlist": "Computer Vision",
+          "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVOIBRx0andphYJ7iakSg3Lk",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Computer Vision: Algorithms and Applications",
+          "author": "Richard Szeliski"
+        },
+        {
+          "title": "Learning OpenCV",
+          "author": "Adrian Kaehler & Gary Bradski"
+        }
+      ],
+      "websites": [
+        {
+          "title": "OpenCV Documentation",
+          "url": "https://docs.opencv.org/"
+        },
+        {
+          "title": "PyImageSearch",
+          "url": "https://pyimagesearch.com/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        },
+        {
+          "platform": "Google Colab",
+          "url": "https://colab.research.google.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Distributed Systems",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Martin Kleppmann",
+          "playlist": "Distributed Systems Lecture Series",
+          "url": "https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+          "language": "English"
+        },
+        {
+          "channel": "MIT 6.824",
+          "playlist": "Distributed Systems",
+          "url": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Designing Data-Intensive Applications",
+          "author": "Martin Kleppmann"
+        },
+        {
+          "title": "Distributed Systems: Principles and Paradigms",
+          "author": "Andrew S. Tanenbaum & Maarten van Steen"
+        }
+      ],
+      "websites": [
+        {
+          "title": "MIT 6.824 Course Website",
+          "url": "https://pdos.csail.mit.edu/6.824/"
+        },
+        {
+          "title": "GeeksforGeeks Distributed Systems",
+          "url": "https://www.geeksforgeeks.org/distributed-systems-tutorial/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "MIT 6.824 Labs (Go)",
+          "url": "https://pdos.csail.mit.edu/6.824/labs/lab-mr.html"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Microprocessor",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Microprocessor",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHL7mF_dRsj4Q9x1NNaZqkh",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Neso Academy",
+          "playlist": "Microprocessors & Microcontrollers",
+          "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Microprocessor Architecture, Programming, and Applications with the 8085",
+          "author": "Ramesh S. Gaonkar"
+        },
+        {
+          "title": "The 8051 Microcontroller",
+          "author": "Kenneth J. Ayala"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Microprocessor",
+          "url": "https://www.geeksforgeeks.org/computer-organization-architecture-tutorials/"
+        },
+        {
+          "title": "TutorialsPoint Microprocessor",
+          "url": "https://www.tutorialspoint.com/microprocessor/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks Microprocessor Quiz",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Digital Image Processing",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "NPTEL (IIT Kharagpur, P.K. Biswas)",
+          "playlist": "Digital Image Processing",
+          "url": "https://www.youtube.com/watch?v=CVV0TvNK6pk",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Digital Image Processing",
+          "author": "Rafael C. Gonzalez & Richard E. Woods"
+        },
+        {
+          "title": "Digital Image Processing and Analysis",
+          "author": "B. Chanda & D. Dutta Majumder"
+        }
+      ],
+      "websites": [
+        {
+          "title": "NPTEL Digital Image Processing Course",
+          "url": "https://nptel.ac.in/courses/117105135"
+        },
+        {
+          "title": "GeeksforGeeks Digital Image Processing",
+          "url": "https://www.geeksforgeeks.org/digital-image-processing-basics/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "RDBMS (Oracle)",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "RebellionRider",
+          "playlist": "Oracle SQL & PL/SQL Tutorial",
+          "url": "https://www.youtube.com/playlist?list=PLL_LQvNX4xKyiExzq9GKwORoH6nvaRnOQ",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Oracle PL/SQL Programming",
+          "author": "Steven Feuerstein & Bill Pribyl"
+        },
+        {
+          "title": "Oracle Database 12c: The Complete Reference",
+          "author": "Bob Bryla & Kevin Loney"
+        }
+      ],
+      "websites": [
+        {
+          "title": "Oracle Database Documentation",
+          "url": "https://docs.oracle.com/en/database/"
+        },
+        {
+          "title": "TutorialsPoint PL/SQL",
+          "url": "https://www.tutorialspoint.com/plsql/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "LeetCode SQL",
+          "url": "https://leetcode.com/problemset/database/"
+        },
+        {
+          "platform": "HackerRank SQL",
+          "url": "https://www.hackerrank.com/domains/sql"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Web Development",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Apna College",
+          "playlist": "Web Development Course",
+          "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n",
+          "language": "Hindi"
+        },
+        {
+          "channel": "CodeWithHarry",
+          "playlist": "Sigma Web Development Course",
+          "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Eloquent JavaScript",
+          "author": "Marijn Haverbeke"
+        },
+        {
+          "title": "HTML and CSS: Design and Build Websites",
+          "author": "Jon Duckett"
+        }
+      ],
+      "websites": [
+        {
+          "title": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/en-US/"
+        },
+        {
+          "title": "W3Schools",
+          "url": "https://www.w3schools.com/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/"
+        },
+        {
+          "platform": "Frontend Mentor",
+          "url": "https://www.frontendmentor.io/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Computer Organization & Architecture",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Computer Organization and Architecture",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
+          "language": "Hindi"
+        },
+        {
+          "channel": "Neso Academy",
+          "playlist": "Introduction to Computer Organization and Architecture",
+          "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Computer Organization and Architecture",
+          "author": "William Stallings"
+        },
+        {
+          "title": "Computer Organization and Embedded Systems",
+          "author": "Carl Hamacher, Zvonko Vranesic & Safwat Zaky"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Computer Organization and Architecture",
+          "url": "https://www.geeksforgeeks.org/computer-organization-architecture-tutorials/"
+        },
+        {
+          "title": "TutorialsPoint Computer Organization",
+          "url": "https://www.tutorialspoint.com/computer_organization_and_architecture/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks COA Quiz",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Information Security",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Neso Academy",
+          "playlist": "Cryptography and Network Security",
+          "url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhBsP45jUdcqBivf25hyVkU",
+          "language": "English"
+        },
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Network Security & Cryptography",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFjkQbGj_yHeTEVPn422_z5",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Cryptography and Network Security",
+          "author": "William Stallings"
+        },
+        {
+          "title": "Applied Cryptography",
+          "author": "Bruce Schneier"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Information Security",
+          "url": "https://www.geeksforgeeks.org/computer-network-tutorials/#security"
+        },
+        {
+          "title": "OWASP",
+          "url": "https://owasp.org/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "TryHackMe",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "platform": "GeeksforGeeks Security Quiz",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Artificial Intelligence",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "Gate Smashers",
+          "playlist": "Artificial Intelligence (Complete Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI",
+          "language": "Hindi"
+        },
+        {
+          "channel": "freeCodeCamp",
+          "playlist": "Harvard CS50's Artificial Intelligence with Python",
+          "url": "https://www.youtube.com/watch?v=5NgNicANyqM",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Artificial Intelligence: A Modern Approach",
+          "author": "Stuart Russell & Peter Norvig"
+        },
+        {
+          "title": "Artificial Intelligence for Humans",
+          "author": "Jeff Heaton"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Artificial Intelligence",
+          "url": "https://www.geeksforgeeks.org/artificial-intelligence/"
+        },
+        {
+          "title": "Harvard CS50 AI Course Page",
+          "url": "https://cs50.harvard.edu/ai/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        },
+        {
+          "platform": "Google Colab",
+          "url": "https://colab.research.google.com/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Data Analytics",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "freeCodeCamp",
+          "playlist": "Data Analysis with Python",
+          "url": "https://www.youtube.com/playlist?list=PLT69ADY_Z1X8pXQQ-govM6PggOfaR-08R",
+          "language": "English"
+        },
+        {
+          "channel": "IHHPET",
+          "playlist": "Data Analyst Course - Beginner's to Advance (Hindi)",
+          "url": "https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Storytelling with Data",
+          "author": "Cole Nussbaumer Knaflic"
+        },
+        {
+          "title": "Python for Data Analysis",
+          "author": "Wes McKinney"
+        }
+      ],
+      "websites": [
+        {
+          "title": "Kaggle Learn",
+          "url": "https://www.kaggle.com/learn"
+        },
+        {
+          "title": "GeeksforGeeks Data Analytics",
+          "url": "https://www.geeksforgeeks.org/data-analysis-tutorial/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "Kaggle",
+          "url": "https://www.kaggle.com/"
+        },
+        {
+          "platform": "freeCodeCamp Data Analysis Certification",
+          "url": "https://www.freecodecamp.org/learn/data-analysis-with-python"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Soft Computing",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "5 Minutes Engineering",
+          "playlist": "Soft Computing And Optimization Algorithms",
+          "url": "https://www.youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw",
+          "language": "Hindi"
+        },
+        {
+          "channel": "AKTU TechQuantum",
+          "playlist": "Application of Soft Computing",
+          "url": "https://www.youtube.com/playlist?list=PLLmJo5LKwNNiSl_a8II-0xyujwPfdXFHR",
+          "language": "Hindi"
+        }
+      ],
+      "books": [
+        {
+          "title": "Neuro-Fuzzy and Soft Computing",
+          "author": "J.-S. R. Jang, C.-T. Sun & E. Mizutani"
+        },
+        {
+          "title": "Soft Computing: Fundamentals and Applications",
+          "author": "D. K. Pratihar"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks Soft Computing",
+          "url": "https://www.geeksforgeeks.org/soft-computing/"
+        },
+        {
+          "title": "TutorialsPoint Soft Computing",
+          "url": "https://www.tutorialspoint.com/soft_computing/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks Soft Computing Quiz",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "System Software",
+    "resources": {
+      "youtube": [],
+      "books": [
+        {
+          "title": "System Software",
+          "author": "Leland L. Beck"
+        },
+        {
+          "title": "Systems Programming",
+          "author": "John J. Donovan"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks System Software",
+          "url": "https://www.geeksforgeeks.org/software-engineering/system-software-and-its-types/"
+        },
+        {
+          "title": "TutorialsPoint Compiler Design (Assemblers, Loaders, Linkers)",
+          "url": "https://www.tutorialspoint.com/compiler_design/index.htm"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "GeeksforGeeks Practice",
+          "url": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "System Simulation",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "NPTEL",
+          "playlist": "Introduction to Modeling and Simulation of Physical Systems",
+          "url": "https://www.youtube.com/watch?v=yLae4Xz2W1Q",
+          "language": "English"
+        },
+        {
+          "channel": "MIT OpenCourseWare",
+          "playlist": "3.021J Introduction to Modeling and Simulation",
+          "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63eWjy1orBicyAXrunfs2jT",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "System Simulation",
+          "author": "Geoffrey Gordon"
+        },
+        {
+          "title": "Simulation Modeling and Analysis",
+          "author": "Averill M. Law"
+        }
+      ],
+      "websites": [
+        {
+          "title": "GeeksforGeeks System Simulation",
+          "url": "https://www.geeksforgeeks.org/software-engineering/"
+        },
+        {
+          "title": "MIT OpenCourseWare",
+          "url": "https://ocw.mit.edu/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "MATLAB Simulink Tutorials",
+          "url": "https://www.mathworks.com/products/simulink/getting-started.html"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Digital Forensics",
+    "resources": {
+      "youtube": [
+        {
+          "channel": "13Cubed",
+          "playlist": "Digital Forensics & Incident Response (DFIR)",
+          "url": "https://www.youtube.com/@13Cubed",
+          "language": "English"
+        }
+      ],
+      "books": [
+        {
+          "title": "Guide to Computer Forensics and Investigations",
+          "author": "Bill Nelson, Amelia Phillips & Christopher Steuart"
+        },
+        {
+          "title": "File System Forensic Analysis",
+          "author": "Brian Carrier"
+        }
+      ],
+      "websites": [
+        {
+          "title": "SANS Digital Forensics and Incident Response",
+          "url": "https://www.sans.org/digital-forensics-incident-response/"
+        },
+        {
+          "title": "GeeksforGeeks Digital Forensics",
+          "url": "https://www.geeksforgeeks.org/digital-forensics/"
+        }
+      ],
+      "practice": [
+        {
+          "platform": "CyberDefenders",
+          "url": "https://cyberdefenders.org/"
+        },
+        {
+          "platform": "TryHackMe DFIR",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    }
+  }
+]
